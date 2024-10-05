@@ -2,7 +2,7 @@
 #Integrantes
  -
  -
- - Anthony
+ - Anthony Ajra
  -
  -
  - Choflis
