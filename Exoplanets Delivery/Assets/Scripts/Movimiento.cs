@@ -5,7 +5,7 @@ using UnityEngine;
 public class NewBehaviourScript : MonoBehaviour
 {
     private float movimientoFuerza = 3.5f;
-    private float fuerzaSalto = 6f;
+    private float fuerzaSalto = 8f;
     private Rigidbody2D miCuerpoRigido;
 
     public Animator animator;
