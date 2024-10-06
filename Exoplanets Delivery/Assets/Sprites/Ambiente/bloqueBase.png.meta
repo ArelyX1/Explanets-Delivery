@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9c9ebc628fe710f4aa21e861f1dff587
+guid: 1d564831457f6254ca1043a3cf14ddb2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PISO_0
+      name: bloqueBase_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 626
-        height: 433
+        x: 62
+        y: 129
+        width: 18
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ae7773a2f56436418107a5b6284beea
-      internalID: -288398545
+      spriteID: 80f1c5c57e376024997bd25fb8aa7e9e
+      internalID: -1753543911
       vertices: []
       indices: 
       edges: []
@@ -128,7 +128,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      PISO_0: -288398545
+      bloqueBase_0: -1753543911
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
